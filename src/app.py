@@ -52,6 +52,12 @@ activities = {
         "max_participants": 15,
         "participants": ["liam@mergington.edu", "ava@mergington.edu"]
     },
+    "Table Tennis Club": {
+        "description": "Play table tennis and participate in school tournaments",
+        "schedule": "Fridays, 4:00 PM - 5:30 PM",
+        "max_participants": 10,
+        "participants": ["harry@mergington.edu", "lucy@mergington.edu"]
+    },
     # Artistic activities
     "Art Club": {
         "description": "Explore painting, drawing, and other visual arts",
